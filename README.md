@@ -144,8 +144,6 @@ This attack demonstrates a complete intrusion lifecycle:
 
 This lab demonstrates how attackers move from initial access to full system compromise. It highlights the importance of monitoring authentication, privilege escalation, and persistence mechanisms in a SOC environment.
 
+- 
 ---
-
-## Author
-
-Laiba Asad
+- Copyright © 2026 Laiba Asad (github.com/Laiba-Asad)
